@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1709254997 source:/home/pedro/Documents/dev/estrutura-de-dados/bissexto/main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
